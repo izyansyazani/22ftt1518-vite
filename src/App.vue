@@ -37,8 +37,6 @@
       </div>
       <h2 class="text-2xl font-semibold mt-8">Contact</h2>
       <ul class="text-lg text-gray-100">
-        <li>Email: 22ftt1518@student.pb.edu.bn</li>
-        <li>Phone: 123-456-7890</li>
         <li>Website: www.example.com</li>
       </ul>
     </div>
